@@ -16,6 +16,6 @@ I would like to get more into how the watermark is detected in an image. Specifi
 
 **What other techniques would you be interested in using in your project?**
 
-I would also be interested in creating watermarks for images as well. I feel like if I am able to learn more about creating watermarks, my project would feel a lot more complete as I could potentially be well versed in both attacking watermarks and creating them
+I would also be interested in creating watermarks for images as well. I feel like if I am able to learn more about creating watermarks, my project would feel a lot more complete as I could potentially be well versed in both attacking watermarks and creating them. Additionally, I could research more techniques for watermark destruction, such as more adversarial attacks
 
 
